@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1569973129 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaArmadura/practicaArmadura.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1557276040 /home/santiago/Escritorio/pasar de fantasma a mia/practicaArmadura/utn.h
+
+1569971287 /home/santiago/Escritorio/pasar de fantasma a mia/practicaArmadura/practicaArmadura.h
+
+1569694725 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaArmadura/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1569887784 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaArmadura/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1569705794 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaArmadura/informes.c
+
+1569705794 source:/home/alumno/Documentos/nico/practicaArmadura/informes.c
+
+1570147611 source:/home/alumno/Documentos/nico/practicaArmadura/practicaArmadura.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1557276040 /home/alumno/Documentos/nico/practicaArmadura/utn.h
+
+1570145679 /home/alumno/Documentos/nico/practicaArmadura/practicaArmadura.h
+
+1569694725 source:/home/alumno/Documentos/nico/practicaArmadura/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570145659 source:/home/alumno/Documentos/nico/practicaArmadura/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1570234340 source:/home/santiago/Documentos/practicaArmadura/informes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1570234424 source:/home/santiago/Documentos/practicaArmadura/practicaArmadura.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1557276040 /home/santiago/Documentos/practicaArmadura/utn.h
+
+1570233334 /home/santiago/Documentos/practicaArmadura/practicaArmadura.h
+
+1570230069 source:/home/santiago/Documentos/practicaArmadura/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570234807 source:/home/santiago/Documentos/practicaArmadura/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+	"informes.h"
+
+1570233792 /home/santiago/Documentos/practicaArmadura/informes.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
